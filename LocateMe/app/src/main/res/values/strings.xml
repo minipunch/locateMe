@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LocateMe</string>
+    <string name="edit_message">Enter a location</string>
+    <string name="button_send">Locate Me!</string>
+    <string name="mLongitudeText"></string>
+    <string name="mLatitudeText"></string>
+</resources>
